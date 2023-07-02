@@ -1,6 +1,5 @@
-# Remix Indie Stack
-
-![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
+# Remix ~~Indie~~ Grunge Stack
+## _Based on "The Remix Indie Stack"_
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
@@ -8,7 +7,7 @@ Learn more about [Remix Stacks](https://remix.run/stacks).
 npx create-remix@latest --template remix-run/indie-stack
 ```
 
-## What's in the stack
+## What's in the _Grunge Stack_
 
 - [Fly app deployment](https://fly.io) with [Docker](https://www.docker.com/)
 - Production-ready [SQLite Database](https://sqlite.org)
